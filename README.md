@@ -11,6 +11,12 @@ A personal study tracker. Log sessions, set weekly goals by subject area, track 
 - Magic-link login, cloud sync across devices, and offline-first localStorage fallback
 - Saved setup variants to switch between schedules
 
+## Run Web
+
+Paste https://strack-8if.pages.dev into browser
+
+
+
 ## Run locally
 
 ```bash
